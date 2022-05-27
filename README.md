@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cdf-creator
-- 👀 I’m interested in Flutter Dev
+- 👀 I’m interested in SCADE and Flutter Dev
 - 💞️ I’m looking to collaborate on Mobile App projects
 - 📫 How to reach me Olanrewajuolakunle10@gmail.com
 
